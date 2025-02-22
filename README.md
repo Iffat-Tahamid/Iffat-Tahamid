@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Iffat-Tahamid/Iffat-Tahamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔹 Currently Learning: Blockchain, Smart Contracts (Solidity), Python
+🔹 Building: Blockchain-Based Fraud Detection System for FinTech
+🔹 Exploring: API Development, Machine Learning, Cybersecurity
+🔹 Freelancing & Research: FinTech, Data Science, Blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Featured Projects
+
+🔗 Blockchain-Based Fraud Detection System (Coming Soon)
+
+⚡ Basic Smart Contract in Solidity (Coming Soon)
+
+📊 Data Analytics Project (Coming Soon)
+
+
+🚀 Skills & Tools
+
+💡 Python | Solidity | Smart Contracts | APIs | GitHub | Web3 | Data Science
